@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Yuri</h1>
 
-![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriDeV15&show_icons=true&theme=dracula)
+![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimaturana&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 
