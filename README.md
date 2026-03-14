@@ -3,7 +3,7 @@
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimaturana&show_icons=true&theme=dark)
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,prisma,vite,nodejs,react,solidjs,svelte,next,lua,mongo,mysql,python,golang,postgres,bun,tailwind,c,cs,dotnet,java,linux,ubuntu,discordbots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,prisma,vite,nodejs,react,solidjs,next,lua,mongo,mysql,python,postgres,bun,tailwind,c,java,discordbots)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,discord,photoshop,docker,obsidian)](https://skillicons.dev)<br><br>
