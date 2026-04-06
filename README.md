@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Yuri
 
-![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimaturana&show_icons=true&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yurimaturana&bg_color=ffffff000&color=708090&line=4fa74b&point=2a522e&area=true&area_color=2a522e&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,prisma,vite,nodejs,react,solidjs,next,lua,mongo,mysql,python,postgres,bun,tailwind,c,java,discordbots)](https://skillicons.dev)
