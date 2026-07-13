@@ -10,3 +10,5 @@
 
 ## 📬 Contato
 Estou à disposição para discutir colaborações, projetos de interesse ou qualquer outro tema relacionado à programação. Será um prazer trocar ideias e explorar novas oportunidades. 
+
+![](https://komarev.com/ghpvc/?username=yurimaturana&color=202020&style=flat&label=PROFILE+VIEWS)
