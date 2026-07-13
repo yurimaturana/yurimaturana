@@ -3,7 +3,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yurimaturana&bg_color=ffffff000&color=708090&line=4fa74b&point=2a522e&area=true&area_color=2a522e&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=yurimaturana&color=202020&style=flat&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=yurimaturana&color=202020&style=flat&label=PROFILE+VIEWS)
 </div>
 
 ## 👨‍💻 Linguagens: 
